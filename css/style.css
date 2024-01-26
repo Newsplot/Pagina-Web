@@ -38,6 +38,12 @@ img{
   padding: 20px;
 }
 
+.content h1{
+  text-align: center;
+  color: #ddbc00da;
+  font-size: 60px;
+}
+
 .content h2 {
   margin-top: 100px;
   margin-bottom: 100px;
@@ -47,6 +53,26 @@ img{
   text-align: center;
   width: 890px;
   margin-left: 100px
+}
+
+.content2 {
+  padding: 20px;
+}
+
+.content2 h1{
+  text-align: center;
+  color: #ddbc00da;
+  font-size: 60px;
+}
+
+.content2 h2 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 40px;
+  text-align: center;
+  width: 890px;
 }
 
 .services {
