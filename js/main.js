@@ -6,5 +6,8 @@ $('.owl-carousel').owlCarousel({
         0:{
             items:1
         },
+        2:{
+            items:1
+        },
     }
 })
